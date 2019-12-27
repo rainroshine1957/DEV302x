@@ -1,2 +1,2 @@
 # DEV302x
-dev302x Capstone: Internet of thigs Course Deliverables
+dev302x Capstone: Internet of Things Course Deliverables
